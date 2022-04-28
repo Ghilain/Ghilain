@@ -7,7 +7,7 @@
 
 🌟 My name is Ghilain Ishimwe, from Kigali, Rwanda, located in the Middle East of Africa Region.
 
-🏂 I'm currently a part-time web developer using WordPress at Digitaline Ltd. 
+🏂 I'm currently a web developer using WordPress at [Digitaline Ltd.](https://digitaline.rw/) 
 
 🔆 I'm a full-stack developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have knowledge of database skills in MySql, In my spare time, I research, make graphics designs, and look for a remote tech job.
 
