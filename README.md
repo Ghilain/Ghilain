@@ -22,10 +22,9 @@
  - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with contributing to my open source projets.
 <!-- - 💬 Ask me about ... -->
 - 📫 Find me: 
-       didiersangwa@gmail.com,
+       ishimweghilain5050@gmail.com,
        GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
        Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
        LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
