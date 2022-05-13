@@ -16,7 +16,7 @@
 
 [My Portifolio](https://ghilain.github.io/mobile-version-skeleton/)
 
-
+ I'm open to new job oportunities
 
  - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
