@@ -24,6 +24,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 Find me: 
        ishimweghilain5050@gmail.com,
+       ghilain.ish@gmail.com,
        GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
        Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
        LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
