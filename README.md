@@ -9,7 +9,7 @@
 
 🏂 I'm currently a web developer using WordPress at [Digitaline Ltd.](https://digitaline.rw/) 
 
-🔆 I'm a full-stack developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have knowledge of database skills in MySql, In my spare time, I research, make graphics designs, and look for a remote tech job.
+🔆 I'm a full-stack web developer with knowledge of HTML, CSS, JavaScript, and PHP, and I have knowledge of database skills in MySql, In my spare time, I research, make graphics designs, and look for a remote tech job.
 
 
 🖱️ Find me on my email: ishimweghilain5050@gmail.com. 
@@ -27,6 +27,8 @@
        ghilain.ish@gmail.com,
        GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
        Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
+       Medium: [Ghilain Ishimwe](	https://medium.com/@ghilain)
+       AngelList: [Ghilain Ishimwe](https://angel.co/u/ghilain-ishimwe)
        LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
