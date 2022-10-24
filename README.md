@@ -29,6 +29,6 @@
        Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
        Medium: [Ghilain Ishimwe](	https://medium.com/@ghilain)
        AngelList: [Ghilain Ishimwe](https://angel.co/u/ghilain-ishimwe)
-       LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
+       LinkedIn: [Ghilain Ishimwe](https://linkedin.com/in/ghilain-ishimwe/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
