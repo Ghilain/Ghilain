@@ -9,7 +9,7 @@
 
 🏂 I'm currently a full-stack web developer at [Digitaline Ltd.](https://digitaline.rw/) 
 
-🔆 I'm a full-stack web developer with knowledge of HTML, CSS, JavaScript, Ruby, Ruby on Rails, and PHP, and I have knowledge of database skills in MySql, and Postgresql. In my spare time, I research, make graphics designs, and look for a remote tech job.
+🔆 I'm a full-stack web developer with knowledge of HTML, CSS, JavaScript, React, Ruby, and Ruby on Rails, and I have knowledge of database skills in MySql, and Postgresql. In my spare time, I research, make graphics designs, and look for a remote tech job.
 
 
 🖱️ Find me on my email: ishimweghilain5050@gmail.com. 
