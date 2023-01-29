@@ -14,7 +14,7 @@
 
 🖱️ Find me on my email: ishimweghilain5050@gmail.com. 
 
-[My Portifolio](https://ghilain.github.io/mobile-version-skeleton/)
+[My Portifolio](https://ghilain.github.io/ghilain-portfolio/)
 
  I'm open to new job opportunities
 
